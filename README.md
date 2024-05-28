@@ -10,7 +10,7 @@ app_file: space.py
 ---
 
 # `megickfilebrowse`
-<a href="https://pypi.org/project/megickfilebrowse/" target="_blank"><img alt="PyPI - Version" src="https://img.shields.io/pypi/v/megickfilebrowse"></a> <a href="your github repository/issues" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Issues-white?logo=github&logoColor=black"></a> 
+<a href="https://pypi.org/project/megickfilebrowse/" target="_blank"><img alt="PyPI - Version" src="https://img.shields.io/pypi/v/megickfilebrowse"></a> <a href="https://github.com/Mejikan/megickfilebrowse/issues" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Issues-white?logo=github&logoColor=black"></a> 
 
 An extension of Gradio's FileExplorer, with more customization.
 
