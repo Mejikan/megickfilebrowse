@@ -21,7 +21,7 @@ with gr.Blocks(
 # `megickfilebrowse`
 
 <div style="display: flex; gap: 7px;">
-<a href="https://pypi.org/project/megickfilebrowse/" target="_blank"><img alt="PyPI - Version" src="https://img.shields.io/pypi/v/megickfilebrowse"></a>  
+<a href="https://pypi.org/project/megickfilebrowse/" target="_blank"><img alt="PyPI - Version" src="https://img.shields.io/pypi/v/megickfilebrowse"></a> <a href="your github repository/issues" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Issues-white?logo=github&logoColor=black"></a> 
 </div>
 
 An extension of Gradio's FileExplorer, with more customization.
